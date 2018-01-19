@@ -3,6 +3,7 @@
 Repositório do grupo de estudos sobre Java do [Training Center](https://training-center.github.io).
 
 <p align="center">
+  <img src="assets/java-logo.png" alt="Logo da linguagem Java">
   <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
 </p>
 
