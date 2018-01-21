@@ -7,6 +7,9 @@ Repositório destinado a listar cursos gratuitos ou pagos de JAVA.
     - [Curso de Java SE Completo (Universidade XTI)](https://www.youtube.com/playlist?list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr)
     - [Curso de Java Grátis - Loiane Groner](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
     - [Maratora de Java - O MAIR CURSO DE JAVA EM PORTUGUÊS DEVDOJO](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL)
+    - [Curso em Vídeo - Java para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
+    - [Curso em Vídeo - POO Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+
 - Intermediário
     - [Curso de JSF - O MAIOR CURSO DE JSF EM PORTUGUÊS DEVDOJO](https://www.youtube.com/watch?v=RD2mUPTjyog&list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)
     - [Curso de Spring Boot essentials DEVDOJO](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
