@@ -31,6 +31,7 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 - [eventos](material/dir/events.md)
 - [newsletters](material/dir/newsletters.md)
 - [sites](material/dir/sites.md)
+- [palestras](material/dir/talks.md)
 
 ## Responsáveis
 
