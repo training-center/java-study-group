@@ -18,7 +18,7 @@ Repositório destinado a listar cursos gratuitos ou pagos de JAVA.
     - [ Java Refletions ](https://www.youtube.com/watch?v=UYCx6C4Z-WM&list=PLb2oL4vcRzBMdaRcYOOpmz3LqRvZQEByP)
 ### Pagos
 - Básico
-    - [exemplo 1](https://exemplo1.com.br)
+    - [Udemy](https://www.udemy.com/java-the-complete-java-developer-course)
 - Intermediário
     - [exemplo 1](https://exemplo1.com.br)
 - Avançado
