@@ -3,7 +3,7 @@
 Repositório destinado a armazenar todas as pautas das reuniões realizadas pelo Grupo de Estudos Java.
 
 - ***Resumo das reuniões***
-    - [1ª Reunião](1ª_reuniao_27_09_2017.md)
+    - [1ª Reunião](1_reuniao_23_01_2018.md)
         - Primeira reunião do Grupo de Estudos.
             - Síntese da reunião:
                 - Apresentação dos membros do grupo de estudo.
