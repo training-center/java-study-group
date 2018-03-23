@@ -32,7 +32,7 @@ Os tópicos abaixo foram pensados na melhor maneira para se iniciar com os etudo
         - Enumeraçõe
         - Expressões lambda
         - Referências para método
-        - sobrecarga de métodos.
+        - Sobrecarga de métodos.
         - Construtores
         - Associação
         - JavaDoc
