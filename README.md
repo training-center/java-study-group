@@ -30,6 +30,7 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 - [cursos](material/dir/courses.md)
 - [eventos](material/dir/events.md)
 - [newsletters](material/dir/newsletters.md)
+- [roadmap](material/roadmap/README.md)
 - [sites](material/dir/sites.md)
 - [palestras](material/dir/talks.md)
 
