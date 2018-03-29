@@ -4,7 +4,7 @@ Os tópicos abaixo foram pensados na melhor maneira para avançar nos estudos em
 
 - Principais tópicos
     - Generics
-    - Colections
+    - Collections
     - Threads
     - Streams
     - JDBC
