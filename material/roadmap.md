@@ -1,1 +1,0 @@
-## Roadmap de estudos sobre Java

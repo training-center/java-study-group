@@ -11,7 +11,7 @@ Repositório do grupo de estudos sobre Java do [Training Center](https://trainin
 
 Este grupo se destina ao estudo de Java.
 
-Conforme [outros grupos de estudos](https://github.com/training-center/study-groups) da comunidade Training Center, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e fazemos reuniões semanais sobre o assunto que são gravados e disponibilizados no YouTube, no [canal do Training Center](https://www.youtube.com/c/TrainingCenterChannel).
+Conforme [outros grupos de estudos](https://github.com/training-center/study-groups) da comunidade Training Center, nós temos um [roadmap](material/roadmap/README.md) de tópicos para estudar juntos e fazemos reuniões semanais sobre o assunto que são gravados e disponibilizados no YouTube, no [canal do Training Center](https://www.youtube.com/c/TrainingCenterChannel).
 
 ## Como participar
 
@@ -24,12 +24,13 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 
 ## Material de apoio ao grupo de estudos
 
-- [trilha de estudos](material/roadmap.md)
+- [trilha de estudos](material/roadmap/README.md)
 - [livros](material/dir/books.md)
 - [comunidades](material/dir/communities.md)
 - [cursos](material/dir/courses.md)
 - [eventos](material/dir/events.md)
 - [newsletters](material/dir/newsletters.md)
+- [roadmap](material/roadmap/README.md)
 - [sites](material/dir/sites.md)
 - [palestras](material/dir/talks.md)
 
