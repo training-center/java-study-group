@@ -3,7 +3,7 @@
 Os tópicos abaixo foram pensados na melhor maneira para avançar nos estudos em Java.
 
 - Principais tópicos
-    - Arquiterura
+    - Arquitetura
     - Clean Code
         - Código ruim
         - Nomes significativos
@@ -16,7 +16,7 @@ Os tópicos abaixo foram pensados na melhor maneira para avançar nos estudos em
             - Abstract Factory
             - Builder
             - Prototype
-            - Factory Mathod
+            - Factory Method
         - Estruturais
             - Decorator
             - Proxy
@@ -37,7 +37,7 @@ Os tópicos abaixo foram pensados na melhor maneira para avançar nos estudos em
             - Interpreter
             - State
             - Observer
-    - Mavem
+    - Maven
     - Princípios de Design
         - Keep It Simple Stupid (KISS)
             - Mantenha Isto Estupidamente Simples
