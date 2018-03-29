@@ -29,7 +29,7 @@ Os tópicos abaixo foram pensados na melhor maneira para se iniciar com os etudo
         - Polimorfismo
         - Classes aninhadas, internas e anônima
         - Classes wrappe
-        - Enumeraçõe
+        - Enumerações
         - Expressões lambda
         - Referências para método
         - Sobrecarga de métodos.
