@@ -30,7 +30,7 @@ Os tópicos abaixo foram pensados na melhor maneira para avançar nos estudos em
             - Visitor
             - Command
             - Strategy
-            - Chair of Responsability
+            - Chain of Responsibility 
             - Iterator
             - Mediator
             - Memento
